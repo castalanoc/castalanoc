@@ -4,8 +4,8 @@
 
 - <b>Network-Proj</b>
   - [Active Directory Home Lab](INSERT LINK)
-- <b>Wireshark Network Analysis (HTTPS/Packet Analysis/Encrypted,Unencrypted Protocols)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+- <b>Wireshark Network Security Analysis (HTTPS/Packet Analysis/Encrypted,Unencrypted Protocols)</b>
+  - [Wireshark Network Security Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
