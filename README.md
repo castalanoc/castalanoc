@@ -2,8 +2,8 @@
 
 <h2>IT/Cyber Projects</h2>
 
-- <b>Active Directory Home-Newtwork(AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Network-Proj</b>
+  - [Active Directory Home Lab](INSERT LINK)
 - <b>Wireshark Network Analysis (HTTPS/Packet Analysis/Encrypted,Unencrypted Protocols)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 - <b>PowerShell</b>
