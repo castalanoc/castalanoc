@@ -16,7 +16,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Simple Python Projs](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Simple Python Projs](https://github.com/castalanoc/python_proj/blob/main/class_database.py)
 
 <h2> 🤳 Connect with me:</h2>
 
