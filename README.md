@@ -5,22 +5,18 @@
 - <b>Home Lab - Active Directory</b>
   - [Active Directory Home Lab](INSERT LINK)
 - <b>Wireshark Network Security Analysis (HTTPS/Packet Analysis/Encrypted,Unencrypted Protocols)</b>
-  - [Wireshark Network Security Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+  - [Wireshark Network Security Analysis](LINK) <b>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](LINK)
+  - [Active Directory Bulk User Creation](LINK)
 - <b>Cisco Network </b>
-  - Packet Tracer(https://github.com/joshmadakor1/EncrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - Packet Tracer(LINK)
+  - [Keylogger with Email Capability](LINK).
 - <b>Python</b>
   - [Simple Python Projs](https://github.com/castalanoc/python_proj/blob/main/class_database.py)
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**castalanoc/castalanoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
