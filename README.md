@@ -4,8 +4,8 @@
 
 - <b>Home Lab - Active Directory</b>
   - [Active Directory Home Lab](INSERT LINK)
-- <b>Wireshark Network Security Analysis (HTTPS/Packet Analysis/Encrypted,Unencrypted Protocols)</b>
-  - [Wireshark Network Security Analysis](LINK) <b>
+- <b>Wireshark Network Security Analysis (Analyzing Network Traffic)</b>
+  - [Wireshark Network Security Analysis](https://www.coursera.org/account/accomplishments/verify/DRNVQ05S4DWE) <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](LINK)
   - [Active Directory Bulk User Creation](LINK)
