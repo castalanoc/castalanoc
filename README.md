@@ -1,5 +1,7 @@
 <h1>Chris Castalano <br/>IT</a>/Cloud</a>
 
+- <b> Currently a Data Center Tech at AWS with hands-on experience in managing physical infrastructure and a growing skill set in cloud technologies, automation, and Infrastructure-as-Code (IaC). I’m actively looking to transition into a junior cloud/devops role with a strong focus on AWS-native tools and modern deployment practices.
+
 <h2>IT/Cloud Projects</h2>
 
 - <b>Ec2 Auto Secure</b>
