@@ -1,8 +1,8 @@
 <h1>Chris Castalano <br/>IT</a>/Cloud</a>
 
-<h2>IT/Cyber Projects</h2>
+<h2>IT/Cloud Projects</h2>
 
-- <b>Home Lab - Active Directory</b>
+- <b>Ec2 Auto Secure</b>
   - [Active Directory Home Lab](INSERT LINK)
 - <b>Wireshark Network Security Analysis (Analyzing Network Traffic)</b>
   - [Wireshark Network Security Analysis](https://www.coursera.org/account/accomplishments/verify/DRNVQ05S4DWE) <b>
