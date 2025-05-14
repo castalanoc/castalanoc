@@ -7,15 +7,15 @@
 - <b>Ec2 Auto Secure</b>
   - [Active Directory Home Lab](INSERT LINK)
 - <b>Cloudformation-VPC</b>
-  - [Wireshark Network Security Analysis](https:/ <b>
+  - [VPC setup using CLoudFormation](link)
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](LINK)
-  - [Active Directory Bulk User Creation](LINK)
-- <b>Cisco Network </b>
-  - Packet Tracer(LINK)
-  - [Keylogger with Email Capability](LINK).
-- <b>Python</b>
-  - [Simple Python Projs](https://github.com/castalanoc/python_proj/blob/main/class_database.py)
+  - (LINK)
+  - (LINK)
+- <b>(TITLE) </b>
+  - (LINK)
+  - (LINK).
+- <b>Title</b>
+  - [Simple Python Projs](LINK)
 
 <!--
 **castalanoc/castalanoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
