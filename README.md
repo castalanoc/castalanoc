@@ -1,13 +1,13 @@
 <h1>Chris Castalano <br/>IT</a>/Cloud</a>
 
-- <b> Currently a Data Center Tech at AWS with hands-on experience in managing physical infrastructure and a growing skill set in cloud technologies, automation, and Infrastructure-as-Code (IaC). I’m actively looking to transition into a junior cloud/devops role with a strong focus on AWS-native tools and modern deployment practices.
+- <b> Currently a Data Center Tech at AWS with hands-on experience in managing physical infrastructure and a growing skill set in cloud technologies, automation, and Infrastructure-as-Code. I’m looking to transition into a junior cloud/devops role with a strong focus on AWS-native tools and modern deployment practices.
 
 <h2>IT/Cloud Projects</h2>
 
 - <b>Ec2 Auto Secure</b>
   - [Active Directory Home Lab](INSERT LINK)
-- <b>Wireshark Network Security Analysis (Analyzing Network Traffic)</b>
-  - [Wireshark Network Security Analysis](https://www.coursera.org/account/accomplishments/verify/DRNVQ05S4DWE) <b>
+- <b>Cloudformation-VPC</b>
+  - [Wireshark Network Security Analysis](https:/ <b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](LINK)
   - [Active Directory Bulk User Creation](LINK)
